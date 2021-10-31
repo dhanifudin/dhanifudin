@@ -1,2 +1,5 @@
 ![dhanifudin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanifudin&show_icons=true&count_private=true&theme=gruvbox)
+
 ![dhanifudin's github stats](https://github-readme-stats.vercel.app/api?username=dhanifudin&show_icons=true&count_private=true&theme=gruvbox)
+
+[![wakatime](https://wakatime.com/badge/user/f8bff2ab-816b-4a1a-9bb9-54d611c99895.svg)](https://wakatime.com/@f8bff2ab-816b-4a1a-9bb9-54d611c99895)
